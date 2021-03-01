@@ -1,0 +1,13 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"FRLG Peds1","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"PL Faces 01","traits":[],"initialLevel":1,"maxLevel":99,"name":"Stefan","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":7,"characterName":"FRLG Peds2","classId":2,"equips":[2,1,2,3,0],"faceIndex":2,"faceName":"PL Faces 01","traits":[],"initialLevel":1,"maxLevel":99,"name":"Dr. Eichel","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":2,"characterName":"FRLG Peds4","classId":3,"equips":[3,0,2,3,4],"faceIndex":5,"faceName":"PL Faces 01","traits":[],"initialLevel":1,"maxLevel":99,"name":"Team R","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":2,"characterName":"FRLG Peds10","classId":4,"equips":[4,0,2,3,4],"faceIndex":6,"faceName":"RBYG Faces 07","traits":[],"initialLevel":1,"maxLevel":99,"name":"Enton","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":1,"characterName":"Nature","classId":1,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"Nature","traits":[],"initialLevel":1,"maxLevel":99,"name":"cat 1","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":1,"characterName":"Nature","classId":1,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"Nature","traits":[],"initialLevel":1,"maxLevel":99,"name":"cat 2","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":1,"characterName":"Nature","classId":1,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"Nature","traits":[],"initialLevel":1,"maxLevel":99,"name":"cat 3","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"","characterIndex":0,"characterName":"Nature","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Nature","traits":[],"initialLevel":90,"maxLevel":99,"name":"nocat 1","nickname":"","note":"","profile":""},
+{"id":9,"battlerName":"","characterIndex":1,"characterName":"Nature","classId":1,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"Nature","traits":[],"initialLevel":1,"maxLevel":99,"name":"cat 4","nickname":"","note":"","profile":""},
+{"id":10,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
