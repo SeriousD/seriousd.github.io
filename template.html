@@ -1,0 +1,34 @@
+<html>
+
+<head>
+
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+<div class="container">
+
+    <div class="row">
+        <div class="text-center">
+            <h1>Soundboard</h1>
+        </div>
+    </div>
+    {% for file in files %}
+    <div class="row">
+        <div>
+            <audio preload="auto" id="audio-{{loop.index}}">
+                <source src="audio/{{ file }}" type="audio/wav">
+
+            </audio>
+            <button type="button" class="btn btn-lg btn-block"
+                onclick="document.getElementById('audio-{{loop.index}}').play()">{{"
+                ".join(file.split('.')[0].split('_')[1:])}}</button>
+        </div>
+    </div>
+    
+    {% endfor %}
+
+</div>
+
+
+</html>
